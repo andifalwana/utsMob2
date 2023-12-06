@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958028285029",
+    "project_id": "uts-pm2",
+    "storage_bucket": "uts-pm2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958028285029:android:6c11f6c788a2711e10328c",
+        "android_client_info": {
+          "package_name": "com.example.uts_mob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr8gWUP0FTViggPGhuD7fcbP67IXoyJoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
